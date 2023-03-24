@@ -1,0 +1,104 @@
+{
+  "words": [
+    {
+      "word": "computer",
+      "translation": "computer"
+    }, {
+      "translation": "internet"
+    },
+    {
+      "word": "software",
+      "translation": "software"
+    },
+    {
+      "word": "hardware",
+      "translation": "hardware"
+    }, {
+      "translation": "file"
+    },
+    {
+      "word": "programma",
+      "translation": "program"
+    }, {
+      "translation": "server"
+    },
+    {
+      "word": "netwerk",
+      "translation": "network"
+    }, {
+      "translation": "database"
+    },
+    {
+      "word": "website",
+      "translation": "website"
+    }, {
+      "translation": "code"
+    },
+    {
+      "word": "programmeren",
+      "translation": "programming"
+    }, {
+      "translation": "bug"
+    },
+    {
+      "word": "debuggen",
+      "translation": "debugging"
+    }, {
+      "translation": "encryption"
+    },
+    {
+      "word": "decryptie",
+      "translation": "decryption"
+    },
+    {
+      "word": "interface",
+      "translation": "interface"
+    }, {
+      "translation": "backup"
+    },
+    {
+      "word": "firewall",
+      "translation": "firewall"
+    }, {
+      "translation": "malware"
+    },
+    {
+      "word": "spam",
+      "translation": "spam"
+    },
+    {
+      "word": "browser",
+      "translation": "browser"
+    }, {
+      "translation": "cookies"
+    },
+    {
+      "word": "downloaden",
+      "translation": "downloading"
+    }, {
+      "translation": "uploading"
+    },
+    {
+      "word": "cloud",
+      "translation": "cloud"
+    },
+    {
+      "word": "artificiële intelligentie",
+      "translation": "artificial intelligence"
+    },
+    {
+      "word": "algoritme",
+      "translation": "algorithm"
+    },
+    {
+      "word": "analyse",
+      "translation": "analysis"
+    }, {
+      "translation": "data"
+    },
+    {
+      "word": "machine learning",
+      "translation": "machine learning"
+    }
+  ]
+}
