@@ -7,9 +7,7 @@ import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
 
 public class UpdateWordRequest {
-    @NotNull
-    @Min(1)
-    Long id;
+
     @NotEmpty
     @Length(min = 1, max = 255)
     String word;

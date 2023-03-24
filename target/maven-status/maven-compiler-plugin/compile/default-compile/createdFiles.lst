@@ -1,0 +1,9 @@
+org/example/woordenboek/data/dtos/UpdateWordRequest.class
+org/example/woordenboek/data/dtos/WordResponse.class
+org/example/woordenboek/services/flows/WordService.class
+org/example/woordenboek/WoordenboekApplication.class
+org/example/woordenboek/data/respositories/WordRepository.class
+org/example/woordenboek/services/flows/WordServiceImpl.class
+org/example/woordenboek/data/entities/WordEntity.class
+org/example/woordenboek/data/dtos/CreateWordRequest.class
+org/example/woordenboek/data/dtos/DeleteWordRequest.class
