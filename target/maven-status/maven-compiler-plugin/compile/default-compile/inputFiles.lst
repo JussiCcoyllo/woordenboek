@@ -1,9 +1,0 @@
-/Users/jussiccoyllo/Documents/GitHub/woordenboek/src/main/java/org/example/woordenboek/data/respositories/WordRepository.java
-/Users/jussiccoyllo/Documents/GitHub/woordenboek/src/main/java/org/example/woordenboek/data/dtos/WordResponse.java
-/Users/jussiccoyllo/Documents/GitHub/woordenboek/src/main/java/org/example/woordenboek/data/dtos/DeleteWordRequest.java
-/Users/jussiccoyllo/Documents/GitHub/woordenboek/src/main/java/org/example/woordenboek/WoordenboekApplication.java
-/Users/jussiccoyllo/Documents/GitHub/woordenboek/src/main/java/org/example/woordenboek/services/flows/WordService.java
-/Users/jussiccoyllo/Documents/GitHub/woordenboek/src/main/java/org/example/woordenboek/data/dtos/UpdateWordRequest.java
-/Users/jussiccoyllo/Documents/GitHub/woordenboek/src/main/java/org/example/woordenboek/data/dtos/CreateWordRequest.java
-/Users/jussiccoyllo/Documents/GitHub/woordenboek/src/main/java/org/example/woordenboek/data/entities/WordEntity.java
-/Users/jussiccoyllo/Documents/GitHub/woordenboek/src/main/java/org/example/woordenboek/services/flows/WordServiceImpl.java
