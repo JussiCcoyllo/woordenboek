@@ -1,17 +1,9 @@
 package org.example.woordenboek.data.dtos;
 
-import org.hibernate.validator.constraints.Length;
+import lombok.Value;
 
-import javax.validation.constraints.Min;
-import javax.validation.constraints.NotEmpty;
-import javax.validation.constraints.NotNull;
-
+@Value
 public class UpdateWordRequest {
-
-    @NotEmpty
-    @Length(min = 1, max = 255)
-    String word;
-    @NotEmpty
-    @Length(min = 1, max = 255)
-    String translation;
+    String dutchName;
+    String englishName;
 }

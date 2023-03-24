@@ -1,9 +1,9 @@
 package org.example.woordenboek.data.dtos;
 
-import lombok.Data;
+import lombok.Value;
 
-@Data
+@Value
 public class CreateWordRequest {
-     String word;
-     String translation;
+    String dutchName;
+    String englishName;
 }
